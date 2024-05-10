@@ -1,4 +1,4 @@
-7# Linktree personalizado💙
+# Linktree personalizado💙
 
 Este é um projeto básico de linktree feito por Brenda Meira. 
 

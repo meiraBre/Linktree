@@ -1,4 +1,4 @@
-# Linktree personalizado
+7# Linktree personalizado💙
 
 Este é um projeto básico de linktree feito por Brenda Meira. 
 
@@ -22,6 +22,3 @@ Este projeto consiste em uma página de Linktree personalizada para compartilhar
 
 Se encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
